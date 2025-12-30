@@ -1,0 +1,5 @@
+{
+  "name": "Morphology Lab Workbench",
+  "description": "An interactive environment for morphological image processing tasks including character repair, object separation, noise removal, and boundary extraction. Generates matching Python OpenCV code for reports.",
+  "requestFramePermissions": []
+}
